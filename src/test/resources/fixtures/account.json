@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "transfersFrom": [
+    {
+      "id": 1
+    }
+  ],
+  "transfersTo": [
+    {
+      "id": 2
+    }
+  ],
+  "balance": 9
+}
